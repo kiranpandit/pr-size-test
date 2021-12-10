@@ -1,2 +1,2 @@
 # pr-size-test
-Hello
+Hello world
